@@ -1,0 +1,23 @@
+{
+  "name": "Discord Bot Plugins",
+  "description": "The official registry for discord bot plugins.",
+  "maintainers": [
+    "Eduard Smet <contact@celarye.dev>"
+  ],
+  "tooling": {
+    "build-time": "2025-11-04T23:00:00Z",
+    "built-with": "manually"
+  },
+  "plugins": {
+    "cats": {
+      "versions": [
+        {
+          "version": "0.1.0",
+          "compatible-bot-version": "0.1"
+        }
+      ],
+      "description": "Look at cats in Discord.",
+      "release-time": "2025-11-04T23:00:00Z"
+    }
+  }
+}
