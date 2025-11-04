@@ -18,6 +18,16 @@
       ],
       "description": "Look at cats in Discord.",
       "release-time": "2025-11-04T23:00:00Z"
+    },
+    "extension-requests": {
+      "versions": [
+        {
+          "version": "0.1.0",
+          "compatible-bot-version": "0.1"
+        }
+      ],
+      "description": "Make Paperback extension requests.",
+      "release-time": "2025-11-04T23:00:00Z"
     }
   }
 }
