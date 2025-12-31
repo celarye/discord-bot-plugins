@@ -1,11 +1,8 @@
 {
   "name": "Cats",
   "version": "0.2.0",
-  "compatible-bot-version": "0.1",
-  "version-deprecated": false,
-  "version-deprecation-reason": "",
+  "compatible-program-version": "0.1",
   "description": "Look at cats in Discord.",
-  "dependencies": [],
   "authors": [
     "Eduard Smet <contact@celarye.dev>"
   ],

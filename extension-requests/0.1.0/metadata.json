@@ -2,10 +2,7 @@
   "name": "Extension Requests",
   "version": "0.1.0",
   "compatible-bot-version": "0.1",
-  "version-deprecated": false,
-  "version-deprecation-reason": "",
   "description": "Make Paperback extension requests.",
-  "dependencies": [],
   "authors": [
     "Eduard Smet <contact@celarye.dev>"
   ],

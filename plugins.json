@@ -4,10 +4,6 @@
   "maintainers": [
     "Eduard Smet <contact@celarye.dev>"
   ],
-  "tooling": {
-    "build-time": "2025-11-04T23:00:00Z",
-    "built-with": "manually"
-  },
   "plugins": {
     "cats": {
       "versions": [
