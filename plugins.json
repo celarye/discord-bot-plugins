@@ -24,10 +24,14 @@
         {
           "version": "0.1.0",
           "compatible-bot-version": "0.1"
+        },
+        {
+          "version": "0.2.0",
+          "compatible-bot-version": "0.1"
         }
       ],
       "description": "Make Paperback extension requests.",
-      "release-time": "2025-11-04T23:00:00Z"
+      "release-time": "2025-12-31T03:00:00Z"
     }
   }
 }
