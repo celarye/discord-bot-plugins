@@ -32,6 +32,16 @@
       ],
       "description": "Make Paperback extension requests.",
       "release-time": "2025-12-31T03:00:00Z"
+    },
+    "support": {
+      "versions": [
+        {
+          "version": "0.1.0",
+          "compatible-program-version": "0.1"
+        }
+      ],
+      "description": "Get Paperback extension support.",
+      "release-time": "2026-01-19T22:00:00Z"
     }
   }
 }
