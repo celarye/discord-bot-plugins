@@ -24,10 +24,14 @@
         {
           "version": "0.2.0",
           "compatible-program-version": "0.1"
+        },
+        {
+          "version": "0.3.0",
+          "compatible-program-version": "0.1"
         }
       ],
       "description": "Look at cats in Discord.",
-      "release-time": "2025-12-31T03:00:00Z"
+      "release-time": "2026-02-03T23:00:00Z"
     },
     "extension-requests": {
       "versions": [
@@ -38,10 +42,14 @@
         {
           "version": "0.2.0",
           "compatible-program-version": "0.1"
+        },
+        {
+          "version": "0.3.0",
+          "compatible-program-version": "0.1"
         }
       ],
       "description": "Make Paperback extension requests.",
-      "release-time": "2025-12-31T03:00:00Z"
+      "release-time": "2026-02-03T23:00:00Z"
     },
     "support": {
       "versions": [
