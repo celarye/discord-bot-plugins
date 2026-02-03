@@ -1,0 +1,14 @@
+{
+  "name": "Automod",
+  "version": "0.1.0",
+  "compatible-bot-version": "0.1",
+  "description": "Automod actions not supported by Discord's autmod.",
+  "authors": [
+    "Eduard Smet <contact@celarye.dev>"
+  ],
+  "license": "GPLv3",
+  "release-time": "2026-02-03T23:00:00Z",
+  "homepage": "https://github.com/celarye/discord-bot-plugins-src",
+  "documentation": "https://github.com/celarye/discord-bot-plugins-src/blob/master/README.md",
+  "repository": "https://github.com/Celarye/discord-bot-plugins-src"
+}

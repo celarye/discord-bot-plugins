@@ -5,6 +5,16 @@
     "Eduard Smet <contact@celarye.dev>"
   ],
   "plugins": {
+    "automod": {
+      "versions": [
+        {
+          "version": "0.1.0",
+          "compatible-program-version": "0.1"
+        }
+      ],
+      "description": "Automod actions not supported by Discord's autmod.",
+      "release-time": "2026-02-03T23:00:00Z"
+    },
     "cats": {
       "versions": [
         {
