@@ -9,57 +9,61 @@
       "versions": [
         {
           "version": "0.1.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "2026-02-03T23:00:00Z"
         }
       ],
-      "description": "Automod actions not supported by Discord's autmod.",
-      "release-time": "2026-02-03T23:00:00Z"
+      "description": "Automod actions not supported by Discord's autmod."
     },
     "cats": {
       "versions": [
         {
           "version": "0.1.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "unknown"
         },
         {
           "version": "0.2.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "unknown"
         },
         {
           "version": "0.3.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "2026-02-03T23:00:00Z"
         }
       ],
-      "description": "Look at cats in Discord.",
-      "release-time": "2026-02-03T23:00:00Z"
+      "description": "Look at cats in Discord."
     },
     "extension-requests": {
       "versions": [
         {
           "version": "0.1.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "unknown"
         },
         {
           "version": "0.2.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "unknown"
         },
         {
           "version": "0.3.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "2026-02-03T23:00:00Z"
         }
       ],
-      "description": "Make Paperback extension requests.",
-      "release-time": "2026-02-03T23:00:00Z"
+      "description": "Make Paperback extension requests."
     },
     "support": {
       "versions": [
         {
           "version": "0.1.0",
-          "compatible-program-version": "0.1"
+          "compatible_program_version": ">=0.1.0-0, <=0.1.0",
+          "release_time": "2026-01-19T22:00:00Z"
         }
       ],
-      "description": "Get Paperback extension support.",
-      "release-time": "2026-01-19T22:00:00Z"
+      "description": "Get Paperback extension support."
     }
   }
 }
